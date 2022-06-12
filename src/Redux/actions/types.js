@@ -1,0 +1,5 @@
+//API CALLS FOR USER DATA
+export const GET_USERS = 'GET_USERS';
+export const GET_USER = 'GET_USER';
+//ANY ERROR
+export const PROFILE_ERROR = 'PROFILE_ERROR';

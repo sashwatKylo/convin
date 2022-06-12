@@ -1,0 +1,22 @@
+.buttonCount {
+  margin-left: 30%;
+  margin-right: 30%;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  margin-top: 11%;
+  margin-left: 30%;
+  margin-right: 30%;
+  display: flex;
+  justify-content: center;
+}
+.image {
+  padding: 10%;
+  width: 10rem;
+  height: 10rem;
+  border-radius: 15%;
+}
+.mainContainer {
+  background-color: black !important;
+}
